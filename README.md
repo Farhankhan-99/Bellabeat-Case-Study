@@ -175,7 +175,6 @@ Bellabeat needed to optimize their marketing strategy and improve user engagemen
 
 ## 👨‍💻 Author
 
-**Farhan Khan**  
-Data Analyst | Google Data Analytics Certificate  
-📧 Email: farhanriyaz9005@gmail.com  
-🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/farhankhan999/)
+**Farhan Khan**    
+ 📧 Email:    farhanriyaz9005@gmail.com  
+ 🔗 LinkedIn: [Connect with me](https://www.linkedin.com/in/farhankhan999/)
