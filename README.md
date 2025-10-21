@@ -4,7 +4,6 @@
 
 An end-to-end data analytics project analyzing smart device fitness tracker data to uncover user activity trends and inform Bellabeat's marketing strategy. This capstone project, completed as part of the Google Data Analytics Professional Certificate, applies the six-phase data analysis framework (Ask, Prepare, Process, Analyze, Share, Act) to derive actionable insights for a high-tech wellness company focused on empowering women through health-tracking technology.
 
----
 
 ## 📊 Dataset Details
 
@@ -30,8 +29,6 @@ An end-to-end data analytics project analyzing smart device fitness tracker data
 5. **Share** - Create visualizations and communicate insights
 6. **Act** - Translate findings into actionable recommendations
 
----
----
 
 ## 🎯 Business Problem
 
@@ -162,16 +159,16 @@ Bellabeat needed to optimize their marketing strategy and improve user engagemen
 ## 📊 Impact & Results
 
 **Deliverables:**
-- ✅ Analysis of 940 activity records across 30 users
-- ✅ 9 comprehensive visualizations with insights
-- ✅ 7 strategic marketing recommendations
-- ✅ User segmentation framework
-- ✅ Evidence-based product features
+-  Analysis of 940 activity records across 30 users
+-  9 comprehensive visualizations with insights
+-  7 strategic marketing recommendations
+-  User segmentation framework
+-  Evidence-based product features
 
-**Potential Business Impact:**
-- 📈 35%+ revenue growth via weekend campaigns
-- 📈 20-30% engagement increase via sedentary interventions
-- 📈 Improved retention through seasonal strategies
+**📈 Potential Business Impact:**
+-  35%+ revenue growth via weekend campaigns
+-  20-30% engagement increase via sedentary interventions
+-  Improved retention through seasonal strategies
 
 ---
 ---
