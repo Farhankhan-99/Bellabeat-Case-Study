@@ -78,7 +78,7 @@ Bellabeat needed to optimize their marketing strategy and improve user engagemen
 - **Active Minutes (Weekday vs Weekend):** 230 vs 225 minutes (minimal difference)
 - **Calories Burned (Weekday vs Weekend):** 2,159 vs 2,096 calories
 
-**Insight:** Users maintain structured fitness routines during weekdays but reduce activity on weekends, suggesting work-related movement patterns.
+    **Insight:** Users maintain structured fitness routines during weekdays but reduce activity on weekends, suggesting work-related movement patterns.
 
 ### 📊 Monthly Trends (April vs May)
 - **April Median Steps:** 7,711 steps
@@ -88,27 +88,27 @@ Bellabeat needed to optimize their marketing strategy and improve user engagemen
 - **April Calories:** 2,135 calories
 - **May Calories:** 2,131 calories (minimal change)
 
-**Insight:** Activity levels declined from April to May, indicating potential seasonal engagement drop or user fatigue.
+   **Insight:** Activity levels declined from April to May, indicating potential seasonal engagement drop or user fatigue.
 
 ### 🔥 Correlation Analysis: Activity & Calories
 - **Total Steps → Calories:** r = 0.59 (Moderate positive correlation)
 - **Total Distance → Calories:** r = 0.64 (Strong positive correlation)
 - **Very Active Minutes → Calories:** r = 0.62 (Strong positive correlation)
 
-**Insight:** Higher physical activity consistently leads to more calories burned. Distance covered is the strongest predictor of calorie expenditure.
+   **Insight:** Higher physical activity consistently leads to more calories burned. Distance covered is the strongest predictor of calorie expenditure.
 
 ### ⏰ Time Distribution: Active vs Sedentary
 - **Active Minutes:** 17.8% of daily time
 - **Sedentary Minutes:** 82.2% of daily time
 
-**Insight:** Users spend over 4x more time sedentary than active, presenting a significant opportunity for Bellabeat to introduce micro-movement reminders and sedentary break alerts.
+   **Insight:** Users spend over 4x more time sedentary than active, presenting a significant opportunity for Bellabeat to introduce micro-movement reminders and sedentary break alerts.
 
 ### 📍 Activity Distribution Patterns
 - **Step Count Outliers:** Several users achieve 30,000+ steps, indicating highly active individuals
 - **Consistency:** Box plot analysis shows relatively consistent median activity across all weekdays
 - **Variability:** High standard deviation suggests diverse user activity levels
 
-**Key Takeaway:** Users walk more on weekdays due to work routines. Weekend activity drops significantly. Distance is the best predictor of calorie burn. 82.2% sedentary time represents major intervention opportunity.
+   **Key Takeaway:** Users walk more on weekdays due to work routines. Weekend activity drops significantly. Distance is the best predictor of calorie burn. 82.2% sedentary time represents major intervention opportunity.
 
 ---
 ---
