@@ -145,7 +145,7 @@ Bellabeat needed to optimize their marketing strategy and improve user engagemen
 
 ## 🛠️ Tools & Technologies
 
-- **Python 3.8+** - Data analysis and manipulation
+- **Python** - Data analysis and manipulation
 - **Pandas** - Data cleaning and transformation
 - **NumPy** - Statistical computations
 - **Matplotlib & Seaborn** - Data visualization
